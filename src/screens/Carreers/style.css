@@ -1,0 +1,714 @@
+.carreers {
+    background-color: #020202;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.carreers .div {
+    background-color: #020202;
+    height: 5300px;
+    position: relative;
+    width: 1440px;
+}
+
+.carreers .logo {
+    height: 18px;
+    left: 658px;
+    position: absolute;
+    top: 43px;
+    width: 125px;
+}
+
+.carreers .image {
+    height: 956px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 530px;
+    width: 1440px;
+}
+
+.carreers .overlap-group {
+    height: 4002px;
+    left: -1270px;
+    position: relative;
+    top: -464px;
+    width: 4002px;
+}
+
+.carreers .group {
+    height: 4002px;
+    left: 0;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    width: 4002px;
+}
+
+.carreers .eclipse {
+    height: 953px;
+    left: 1270px;
+    position: absolute;
+    top: 467px;
+    width: 1440px;
+}
+
+.carreers .frame {
+    height: 956px;
+    left: 1270px;
+    position: absolute;
+    top: 464px;
+    width: 1440px;
+    transition: transform 0.3s ease;
+}
+
+.carreers .frame:hover {
+    transform: translateX(50px);
+}
+
+.carreers .start-chatting-with {
+    color: transparent;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 64px;
+    font-weight: 700;
+    left: 132px;
+    letter-spacing: 0;
+    line-height: 67px;
+    position: absolute;
+    top: 1598px;
+    white-space: nowrap;
+}
+
+.carreers .text-wrapper {
+    color: #ffffff;
+}
+
+.carreers .span {
+    color: #b6fbff;
+}
+
+.carreers .frame-2 {
+    align-items: center;
+    display: inline-flex;
+    gap: 8px;
+    left: 132px;
+    position: absolute;
+    top: 1787px;
+}
+
+.carreers .text {
+    color: #b5faff;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.24px;
+    line-height: 24px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.carreers .vector {
+    height: 5.77px;
+    object-fit: cover;
+    position: relative;
+    width: 36px;
+}
+
+.carreers .carreers-wrapper {
+    border: 1.02px solid;
+    border-color: #ffffff;
+    border-radius: 20.35px;
+    height: 748px;
+    left: 132px;
+    position: absolute;
+    top: 1875px;
+    width: 1176px;
+}
+
+.carreers .img {
+    height: 716px;
+    left: 14px;
+    position: absolute;
+    top: 15px;
+    width: 1145px;
+}
+
+.carreers .CTA {
+    height: 458px;
+    left: 0;
+    position: absolute;
+    top: 4123px;
+    width: 1440px;
+}
+
+.carreers .overlap {
+    height: 1219px;
+    left: 0;
+    position: absolute;
+    top: 2784px;
+    width: 1440px;
+}
+
+.carreers .overlap-2 {
+    height: 1219px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.carreers .line {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.carreers .line-2 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 1218px;
+    width: 1440px;
+}
+
+.carreers .line-3 {
+    height: 1219px;
+    left: 669px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+
+.carreers .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 64px;
+    font-weight: 700;
+    left: 132px;
+    letter-spacing: 0;
+    line-height: 67px;
+    position: absolute;
+    top: 80px;
+    width: 544px;
+}
+
+.carreers .p {
+    color: #ffffffb2;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 132px;
+    letter-spacing: 0.72px;
+    line-height: 23px;
+    position: absolute;
+    top: 238px;
+    width: 476px;
+}
+
+.carreers .BTN {
+    all: unset;
+    align-items: flex-start;
+    background-color: #b6fbff;
+    border-radius: 40px;
+    box-sizing: border-box;
+    display: inline-flex;
+    gap: 8px;
+    left: 132px;
+    padding: 16px 32px;
+    position: absolute;
+    top: 325px;
+}
+
+.carreers .text-wrapper-3 {
+    color: #000000;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.24px;
+    line-height: 24px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.carreers .rectangle {
+    background-color: #212121;
+    border-radius: 20px;
+    height: 560px;
+    left: 132px;
+    position: absolute;
+    top: 461px;
+    width: 476px;
+}
+
+.carreers .image-2 {
+    height: 280px;
+    left: 733px;
+    object-fit: cover;
+    position: absolute;
+    top: 81px;
+    width: 275px;
+}
+
+.carreers .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 733px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 376px;
+    width: 280px;
+}
+
+.carreers .image-3 {
+    height: 280px;
+    left: 1033px;
+    object-fit: cover;
+    position: absolute;
+    top: 81px;
+    width: 275px;
+}
+
+.carreers .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 1033px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 376px;
+    width: 280px;
+}
+
+.carreers .image-4 {
+    height: 280px;
+    left: 733px;
+    object-fit: cover;
+    position: absolute;
+    top: 447px;
+    width: 275px;
+}
+
+.carreers .image-5 {
+    height: 280px;
+    left: 733px;
+    object-fit: cover;
+    position: absolute;
+    top: 813px;
+    width: 275px;
+}
+
+.carreers .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 733px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 742px;
+    width: 280px;
+}
+
+.carreers .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 733px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 1108px;
+    width: 280px;
+}
+
+.carreers .image-6 {
+    height: 280px;
+    left: 1033px;
+    object-fit: cover;
+    position: absolute;
+    top: 447px;
+    width: 275px;
+}
+
+.carreers .image-7 {
+    height: 280px;
+    left: 1033px;
+    object-fit: cover;
+    position: absolute;
+    top: 813px;
+    width: 275px;
+}
+
+.carreers .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 1033px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 742px;
+    width: 280px;
+}
+
+.carreers .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 1033px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 1108px;
+    width: 280px;
+}
+
+.carreers .footer {
+    background-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #303030;
+    border-left-style: none;
+    border-right-style: none;
+    border-top-style: solid;
+    border-top-width: 1px;
+    height: 506px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 4714px;
+    width: 1440px;
+}
+
+.carreers .footer-top {
+    height: 279px;
+    left: 132px;
+    position: absolute;
+    top: 56px;
+    width: 1196px;
+}
+
+.carreers .contact-us {
+    height: 155px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 584px;
+}
+
+.carreers .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 36px;
+    position: absolute;
+    top: 0;
+    width: 582px;
+}
+
+.carreers .div-wrapper {
+    all: unset;
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: var(--neutral-10);
+    border-radius: 40px;
+    box-sizing: border-box;
+    display: inline-flex;
+    gap: 8px;
+    left: 0;
+    padding: 16px 32px;
+    position: absolute;
+    top: 96px;
+}
+
+.carreers .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 27px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.carreers .business {
+    height: 110px;
+    left: 604px;
+    position: absolute;
+    top: 0;
+    width: 286px;
+}
+
+.carreers .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 36px;
+    position: absolute;
+    top: 0;
+    width: 280px;
+}
+
+.carreers .text-wrapper-13 {
+    color: #b3b3b3;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 27px;
+    position: absolute;
+    top: 53px;
+    width: 280px;
+}
+
+.carreers .text-wrapper-14 {
+    color: #b3b3b3;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 27px;
+    position: absolute;
+    top: 83px;
+    width: 280px;
+}
+
+.carreers .open {
+    height: 140px;
+    left: 916px;
+    position: absolute;
+    top: 0;
+    width: 288px;
+}
+
+.carreers .text-wrapper-15 {
+    color: #b3b3b3;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 27px;
+    position: absolute;
+    top: 113px;
+    width: 280px;
+}
+
+.carreers .london {
+    height: 107px;
+    left: 604px;
+    position: absolute;
+    top: 172px;
+    width: 284px;
+}
+
+.carreers .cape-town {
+    height: 107px;
+    left: 916px;
+    position: absolute;
+    top: 172px;
+    width: 284px;
+}
+
+.carreers .element-upper-pepper {
+    color: #b3b3b3;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 27px;
+    position: absolute;
+    top: 53px;
+    width: 260px;
+}
+
+.carreers .footer-down {
+    height: 84px;
+    left: 0;
+    position: absolute;
+    top: 373px;
+    width: 1446px;
+}
+
+.carreers .HR {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: -1px;
+    width: 1440px;
+}
+
+.carreers .text-wrapper-16 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 736px;
+    letter-spacing: 0;
+    line-height: 36px;
+    position: absolute;
+    top: 48px;
+    width: 175px;
+}
+
+.carreers .text-wrapper-17 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 943px;
+    letter-spacing: 0;
+    line-height: 36px;
+    position: absolute;
+    top: 48px;
+    width: 175px;
+}
+
+.carreers .text-wrapper-18 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 1133px;
+    letter-spacing: 0;
+    line-height: 36px;
+    position: absolute;
+    top: 48px;
+    width: 175px;
+}
+
+.carreers .logo-2 {
+    height: 18px;
+    left: 112px;
+    position: absolute;
+    top: 57px;
+    width: 125px;
+}
+
+.carreers .buttons {
+    all: unset;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 60px;
+    box-sizing: border-box;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 56px;
+    justify-content: center;
+    left: 598px;
+    padding: 0px 90px;
+    position: absolute;
+    top: 401px;
+}
+
+.carreers .text-2 {
+    color: #000000;
+    font-family: "SF Pro Display-Semibold", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.24px;
+    line-height: 24px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.carreers .text-wrapper-19 {
+    color: #ffffffb2;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 132px;
+    letter-spacing: 0.72px;
+    line-height: 23px;
+    position: fixed;
+    top: 1700px;
+    width: 499px;
+}
+
+.carreers .AI-chatbot {
+    color: transparent;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 64px;
+    font-weight: 700;
+    left: 564px;
+    letter-spacing: 0;
+    line-height: 67px;
+    position: absolute;
+    text-align: center;
+    top: 191px;
+    white-space: nowrap;
+}
+
+.carreers .text-wrapper-20 {
+    color: #ffffffb2;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 471px;
+    letter-spacing: 0.72px;
+    line-height: 23px;
+    position: absolute;
+    text-align: center;
+    top: 290px;
+    width: 499px;
+}
+
+.carreers .scroll-container {
+    width: 100%;
+    /* Set the container width to 100% */
+    /* Add horizontal scroll */
+}
+
+.carreers .fixed-content {
+    width: 2000px;
+    /* Set a fixed width for the content (adjust as needed) */
+    display: flex;
+    /* Use flexbox for horizontal layout */
+}
+
+.scroll-container {
+    /* Enable horizontal scrolling */
+    white-space: nowrap;
+    /* Prevent text from wrapping */
+}
+
+.fixed-content {
+    display: inline-block;
+    /* Display children inline-block */
+}
